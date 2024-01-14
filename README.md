@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajeev Dixit</h1>
-<h3 align="center">An Engineering Lead at PhonePe, specializing in Platform Tools and Automation</h3>
+<h3 align="center">An Engineering Leader at PhonePe, specializing in Platform Tools and Automation</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/rajeevdixit05" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="rajeevdixit05" height="30" width="40" /></a>
